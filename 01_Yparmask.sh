@@ -15,7 +15,9 @@ ml bedtools
 
 
 ## This scripts a cellranger reference directory and then spits out a new Ypar_masked cellranger reference
-ranger_ref="/home/groups/satpathy/software/cellranger_arc_v2/refdata-cellranger-arc-GRCh38-2020-A-2.0.0"
+#ranger_ref="/home/groups/satpathy/software/cellranger_arc_v2/refdata-cellranger-arc-GRCh38-2020-A-2.0.0"
+ranger_ref="/home/groups/satpathy/software/refdata-cellranger-GRCh38-3.0.0/"
+
 
 par_bed="Y_PAR.bed"
 
